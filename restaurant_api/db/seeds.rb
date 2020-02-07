@@ -7,3 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Sample.create(title: 'hello world', context: 'this is the first response you need to modify here')
+
+Pricerange.create(minimum: 30000, maximum: 40000)
+Pricerange.create(minimum: 20000, maximum: 30000)
+Pricerange.create(minimum: 10000, maximum: 20000)
+Pricerange.create(minimum: 0, maximum: 10000)
